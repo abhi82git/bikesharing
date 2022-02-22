@@ -22,7 +22,7 @@ The chart below shows the duration for which bikes were checked out. The largest
 
 ### Checkout Times by Gender
 This chart breaks down the previous one into genders. While 5/6 minutes, is still the the timeslot for maximum number of bikes - it is evident that not only men rented more bikes, they also rented them for longer duration than other genders.
-![checkout_times_by_gender](https://github.com/abhi82git/bikesharing/blob/7c52049d8674d47f2e088a3eec8b4f986bcc7a2f/Checkout_Times_by_Gender.png)
+![checkout_times_by_gender](https://github.com/abhi82git/bikesharing/blob/d54e4f1c5a3044bc7152b0b8bcb63ac7e1596d64/images/Checkout_Times_by_Gender.png)
 
 ### Trips By Weekday per hour
 This is a heatmap showing what days of the week and what times of the day are most bikes being rented/used. From the chart it is clear, that most bike are rented between 7 AM to 6 PM on weekdays (barring the evening on Fridays, probaly due to the oncoming weekend party/trips/recreation).
