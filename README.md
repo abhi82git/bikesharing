@@ -36,6 +36,12 @@ This heatmap further breaks down the previous heatmap by genders. While the peak
 This heatmap breaks the users how are using bikes by gender and type of user. From th heatmp, it is clear that subscribers rent more than customers and men more than other genders.
 ![user_trips_by_weekday](https://github.com/abhi82git/bikesharing/blob/7c52049d8674d47f2e088a3eec8b4f986bcc7a2f/images/User_Trips_by_Gender_by_Weekday.png)
 
+## Tableau Dashboards/Stories
+ - ![Dashboard_Part_1](https://public.tableau.com/authoring/NYC_CitiBike_Challenge_16454952739690/NYCCititBikeDashboard_____#1)
+ - ![Dashboard_Part_2](https://public.tableau.com/authoring/NYC_CitiBike_Challenge_16454952739690/NYCCItibikeDashhboardPg2#1)
+ - ![Story_Part_1](https://public.tableau.com/authoring/NYC_CitiBike_Challenge_16454952739690/NYCCitibikeStoryPt1#1)
+ - ![Story_Part_2](https://public.tableau.com/authoring/NYC_CitiBike_Challenge_16454952739690/NYCCitibikeStoryPt2#1)
+
 ## Summary
 To summarize, following are the main points from the analysis:
  - Subscribers use more bikes than customers.
